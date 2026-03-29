@@ -1051,11 +1051,6 @@ elif "Length vs Clarity" in page:
             color_continuous_scale="Viridis",
             labels={"instruction_word_count": "Prompt Word Count", "flesch_score": "Readability Score"},
             hover_data={"instruction_word_count": True, "flesch_score": ":.1f"},
-            trendline="ols",
-        )
-        fig.update_traces(
-            selector=dict(type="scatter", mode="lines"),
-            line=dict(color="#ef4444", width=2.5)
         )
         fig.update_layout(**PLOTLY_LAYOUT, height=440,
                           title="Prompt Length vs Flesch Readability Score",
