@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+nltk
+textstat
+plotly
+matplotlib
+wordcloud
+huggingface_hub
