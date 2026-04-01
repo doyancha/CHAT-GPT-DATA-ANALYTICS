@@ -83,10 +83,11 @@ df.shape  # → (52002, 3)
 - Applied lowercase normalisation and regex cleaning to strip punctuation
 - Generated a word cloud from the merged, filtered text corpus
 
-**What the chart shows:**
-<br>
 <br>
 <img width="640" height="329" alt="wordcloud" src="https://github.com/user-attachments/assets/12bf130e-72fb-4568-bb00-bde95d10634a" />
+<br>
+
+**What image shows:**
 
 | Word Size | Meaning |
 |-----------|---------|
@@ -151,6 +152,7 @@ Other          → everything else
 <br>
 <img width="1276" height="450" alt="readability_level" src="https://github.com/user-attachments/assets/ff5ed39a-57dd-4d25-9565-348faccae8e8" />
 <br>
+
 **What the pie chart shows:**
 
 - **Medium (44.5%)** — Almost half of all responses sit at a clear, professional reading level
