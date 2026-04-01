@@ -148,10 +148,10 @@ Other          → everything else
 | 30–49 | Difficult — academic |
 | 0–29 | Very Difficult — technical/legal |
 | < 0 | Extremely Difficult |
-
-**What the pie chart shows:**
 <br>
 <img width="1276" height="450" alt="readability_level" src="https://github.com/user-attachments/assets/ff5ed39a-57dd-4d25-9565-348faccae8e8" />
+<br>
+**What the pie chart shows:**
 
 - **Medium (44.5%)** — Almost half of all responses sit at a clear, professional reading level
 - **Easy (28.6%)** — Over a quarter are genuinely accessible to a general audience
@@ -171,11 +171,11 @@ Other          → everything else
 2. Compute the Pearson correlation between word count and Flesch score
 3. Fit a linear regression line and extract slope (m) and intercept (c)
 4. Visualise with both a seaborn regression plot and an interactive Plotly scatter
-
-**What the charts show:**
 <br>
 
 <img width="1276" height="450" alt="length_vs_readability_score" src="https://github.com/user-attachments/assets/403ef045-96ed-4b6f-b584-ffa379f7e7ef" />
+
+**What the charts show:**
 
 - The **regression line is nearly flat** — barely rising from left to right
 - Data points are **scattered uniformly** across all prompt lengths with no clustering pattern
@@ -220,7 +220,7 @@ The **box is narrow and sits low** — most responses use concise, readable sent
 - Created binary flag `has_input` (1 = context provided, 0 = no context)
 - Grouped by this flag and computed mean `output_word_count` and mean `flesch_score`
 - Visualised as a grouped bar chart
-- <br>
+<br>
 <img width="950" height="600" alt="extra_text vs prompt_response" src="https://github.com/user-attachments/assets/3618bb8e-7d28-4ae8-9244-d0692a18d792" />
 <br>
 
