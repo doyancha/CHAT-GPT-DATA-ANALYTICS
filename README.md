@@ -150,6 +150,7 @@ Other          → everything else
 | < 0 | Extremely Difficult |
 
 **What the pie chart shows:**
+<img width="1276" height="450" alt="readability_level" src="https://github.com/user-attachments/assets/ff5ed39a-57dd-4d25-9565-348faccae8e8" />
 
 - **Medium (44.5%)** — Almost half of all responses sit at a clear, professional reading level
 - **Easy (28.6%)** — Over a quarter are genuinely accessible to a general audience
