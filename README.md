@@ -84,9 +84,11 @@ df.shape  # → (52002, 3)
 - Generated a word cloud from the merged, filtered text corpus
 
 **What the chart shows:**
+<img width="640" height="329" alt="wordcloud" src="https://github.com/user-attachments/assets/12bf130e-72fb-4568-bb00-bde95d10634a" />
 
 | Word Size | Meaning |
-|---|---|
+|---|---|![Uploading wordcloud.png…]()
+
 | 🔵 Giant — *design, story, item* | These themes dominate across thousands of prompts |
 | 🟢 Large — *question, data, character, calculate* | Very common task-type signals |
 | 🟡 Medium — *poem, technology, analyze, convert* | Moderately frequent topics |
