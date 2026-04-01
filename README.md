@@ -115,6 +115,7 @@ Classification → "classify", "categorize", "group the following"
 Problem Solving→ "calculate", "solve", "compute", "evaluate"
 Other          → everything else
 ```
+<img width="1038" height="500" alt="chat_distributio" src="https://github.com/user-attachments/assets/4fe22180-b8bd-4a1f-af6c-de0594f7e2b3" />
 
 **Results:**
 
