@@ -90,9 +90,9 @@ df.shape  # → (52002, 3)
 
 | Word Size | Meaning |
 
-| 🔵 Giant — *design, story, item* | These themes dominate across thousands of prompts |
-| 🟢 Large — *question, data, character, calculate* | Very common task-type signals |
-| 🟡 Medium — *poem, technology, analyze, convert* | Moderately frequent topics |
+| 🔵 Giant — *design, story, item* | These themes dominate across thousands of prompts |<br>
+| 🟢 Large — *question, data, character, calculate* | Very common task-type signals |<br>
+| 🟡 Medium — *poem, technology, analyze, convert* | Moderately frequent topics |<br>
 
 > **Insight:** People primarily use ChatGPT for **creative content** (story, design, character) and **informational tasks** (question, difference, describe). Technical tasks like mathematics appear far less frequently than intuition might suggest.
 
