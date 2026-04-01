@@ -117,6 +117,7 @@ Problem Solving→ "calculate", "solve", "compute", "evaluate"
 Other          → everything else
 ```
 <img width="1038" height="500" alt="chat_distributio" src="https://github.com/user-attachments/assets/4fe22180-b8bd-4a1f-af6c-de0594f7e2b3" />
+<br>
 
 **Results:**
 
@@ -176,6 +177,7 @@ Other          → everything else
 <br>
 
 <img width="1276" height="450" alt="length_vs_readability_score" src="https://github.com/user-attachments/assets/403ef045-96ed-4b6f-b584-ffa379f7e7ef" />
+<br>
 
 **What the charts show:**
 
@@ -198,6 +200,7 @@ Other          → everything else
 - Visualised as a Plotly box plot with overlaid data point strip
 
 <img width="770" height="613" alt="instruction_length vs flash_score" src="https://github.com/user-attachments/assets/ddc8a13c-3be2-4f66-8e52-ce2c5c39017a" />
+<br>
 
 
 **What the box plot shows:**
