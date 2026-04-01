@@ -85,10 +85,8 @@ df.shape  # → (52002, 3)
 
 **What the chart shows:**
 <br>
-<img width="640" height="329" alt="wordcloud" src="https://github.com/user-attachments/assets/12bf130e-72fb-4568-bb00-bde95d10634a" />
 <br>
-
-
+<img width="640" height="329" alt="wordcloud" src="https://github.com/user-attachments/assets/12bf130e-72fb-4568-bb00-bde95d10634a" />
 
 | Word Size | Meaning |
 
