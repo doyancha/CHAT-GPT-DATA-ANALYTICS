@@ -150,6 +150,7 @@ Other          → everything else
 | < 0 | Extremely Difficult |
 
 **What the pie chart shows:**
+<br>
 <img width="1276" height="450" alt="readability_level" src="https://github.com/user-attachments/assets/ff5ed39a-57dd-4d25-9565-348faccae8e8" />
 
 - **Medium (44.5%)** — Almost half of all responses sit at a clear, professional reading level
@@ -172,6 +173,9 @@ Other          → everything else
 4. Visualise with both a seaborn regression plot and an interactive Plotly scatter
 
 **What the charts show:**
+<br>
+
+<img width="1276" height="450" alt="length_vs_readability_score" src="https://github.com/user-attachments/assets/403ef045-96ed-4b6f-b584-ffa379f7e7ef" />
 
 - The **regression line is nearly flat** — barely rising from left to right
 - Data points are **scattered uniformly** across all prompt lengths with no clustering pattern
@@ -190,6 +194,9 @@ Other          → everything else
 - Word count computed using `.split()`
 - Words per sentence = `output_word_count / sentence_count` (with division-by-zero guard)
 - Visualised as a Plotly box plot with overlaid data point strip
+
+<img width="770" height="613" alt="instruction_length vs flash_score" src="https://github.com/user-attachments/assets/ddc8a13c-3be2-4f66-8e52-ce2c5c39017a" />
+
 
 **What the box plot shows:**
 
@@ -213,6 +220,9 @@ The **box is narrow and sits low** — most responses use concise, readable sent
 - Created binary flag `has_input` (1 = context provided, 0 = no context)
 - Grouped by this flag and computed mean `output_word_count` and mean `flesch_score`
 - Visualised as a grouped bar chart
+- <br>
+<img width="950" height="600" alt="extra_text vs prompt_response" src="https://github.com/user-attachments/assets/3618bb8e-7d28-4ae8-9244-d0692a18d792" />
+<br>
 
 **Results:**
 
