@@ -287,7 +287,7 @@ nltk.download("stopwords")
 ### 4. Run the notebook
 
 ```bash
-jupyter notebook CHAT_GPT_DATA_ANALYTICS_ANNOTATED.ipynb
+jupyter notebook CHAT_GPT_DATA_ANALYTICS_FINAL.ipynb
 ```
 
 > ⚠️ **Note:** The dataset is loaded directly from HuggingFace via a public Parquet URL. An active internet connection is required for the data loading cell.
@@ -299,7 +299,7 @@ jupyter notebook CHAT_GPT_DATA_ANALYTICS_ANNOTATED.ipynb
 ```
 CHAT-GPT-DATA-ANALYTICS/
 │
-├── 📓 CHAT_GPT_DATA_ANALYTICS_ANNOTATED.ipynb   ← Main analysis notebook
+├── 📓 CHAT_GPT_DATA_ANALYTICS_FINAL.ipynb   ← Main analysis notebook
 ├── 📄 README.md                                  ← You are here
 └── 📄 LICENSE                                    ← MIT License
 ```
